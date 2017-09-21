@@ -27,7 +27,6 @@ package java7.util;
 
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.InternalArrays;
 import java.util.List;
 
 import java8.util.function.Supplier;
@@ -87,7 +86,7 @@ public final class Objects {
         else if (a == null || b == null)
             return false;
         else
-            return InternalArrays.deepEquals0(a, b);
+            return Arrays.deepEquals(new Object[]{a}, new Object[]{b});
     }
 
     /**
