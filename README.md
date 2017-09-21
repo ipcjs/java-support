@@ -1,5 +1,7 @@
 # java-support
 
+[![](https://jitpack.io/v/ipcjs/java-support.svg)](https://jitpack.io/#ipcjs/java-support)
+
 All files copy from Android 25.
 
 ## Features
