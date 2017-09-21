@@ -18,6 +18,6 @@ allprojects {
 	}
 }
 dependencies {
-        compile 'com.github.ipcjs:java-support:0.0.2'
+        compile 'com.github.ipcjs:java-support:0.0.3'
 }
 ```
