@@ -2,12 +2,13 @@
 
 [![](https://jitpack.io/v/ipcjs/java-support.svg)](https://jitpack.io/#ipcjs/java-support)
 
-All files copy from Android 25.
+All files copy from Android Source Code.
 
 ## Features
 
 - Functional Interface: `java.util.function.*` -> `java8.util.function.*`
 - Objects: `java.util.Objects` -> `java7.util.Objects`
+- Optional: `java.util.Optional*` -> `java8.util.Optional*`
 
 ## Usage
 
@@ -18,6 +19,6 @@ allprojects {
 	}
 }
 dependencies {
-        compile 'com.github.ipcjs:java-support:0.0.3'
+        compile 'com.github.ipcjs:java-support:0.1.0'
 }
 ```
