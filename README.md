@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Use [Android Studio 4.0](https://developer.android.com/studio/write/java8-support?hl=en#library-desugaring) insteand.
+
 # java-support
 
 [![](https://jitpack.io/v/ipcjs/java-support.svg)](https://jitpack.io/#ipcjs/java-support)
